@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Restatin
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning Python CSS HTML and JavaScript 
